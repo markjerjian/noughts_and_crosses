@@ -1,0 +1,14 @@
+*.pyc
+*.log
+*.com
+*.exe
+*.zip
+*.o
+*.so
+*.7z
+*.tar
+*.gz
+*.dmg
+*.dll
+*.sqlite
+.idea/
